@@ -3,8 +3,8 @@ package handler
 import (
 	"context"
 	"encoding/json"
-	"github.com/aolab/letsgo/messages"
-	"github.com/aolab/letsgo/models"
+	"github.com/aoacademy/letsgo/messages"
+	"github.com/aoacademy/letsgo/models"
 	"github.com/labstack/echo/v4"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

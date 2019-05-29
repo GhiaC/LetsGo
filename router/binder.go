@@ -2,8 +2,8 @@ package router
 
 import (
 	"context"
-	"github.com/aolab/letsgo/conf"
-	"github.com/aolab/letsgo/handler"
+	"github.com/aoacademy/letsgo/conf"
+	"github.com/aoacademy/letsgo/handler"
 	"github.com/labstack/echo/v4"
 	"go.mongodb.org/mongo-driver/mongo"
 	"strconv"

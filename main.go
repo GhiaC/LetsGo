@@ -2,9 +2,9 @@ package main
 
 import (
 	"context"
-	"github.com/aolab/letsgo/conf"
-	"github.com/aolab/letsgo/database"
-	"github.com/aolab/letsgo/router"
+	"github.com/aoacademy/letsgo/conf"
+	"github.com/aoacademy/letsgo/database"
+	"github.com/aoacademy/letsgo/router"
 )
 
 func main() {
