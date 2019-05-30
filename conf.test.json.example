@@ -2,6 +2,6 @@
   "Port": 8082,
   "Database": "aolabTest",
   "Collection": "geoTest",
-  "DatabasePort" : 27017,
-  "DatabaseAddress" : "localhost"
+  "DatabasePort": 27017,
+  "DatabaseAddress": "localhost"
 }
